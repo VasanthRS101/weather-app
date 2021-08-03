@@ -1,5 +1,5 @@
 # weather-app
-Awesome Weather App using AccuWeather API
+Awesome Weather App using OpenWeatherMap API
 
 ## ScreenShot:
 
